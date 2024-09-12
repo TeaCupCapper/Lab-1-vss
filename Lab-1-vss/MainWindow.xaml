@@ -29,7 +29,6 @@
         <Border BorderBrush="Black" BorderThickness="1" Height="183" Width="454" HorizontalAlignment="Center" VerticalAlignment="Top" Margin="0,212,0,0" Grid.RowSpan="3"/>
 
         <Canvas x:Name="Drawing_Field" Margin="197,12,203,55" Grid.RowSpan="2" Grid.Row="1" Height="150" Width="300"/>
-        <Button Content="Erase the picture" HorizontalAlignment="Left" Margin="301,187,0,0" VerticalAlignment="Top" Click="Button_Eraser"/>
 
     </Grid>
 </Window>
